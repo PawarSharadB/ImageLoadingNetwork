@@ -1,0 +1,4 @@
+export const sagaActions = {
+  FETCH_TOKEN_SAGA: 'FETCH_TOKEN_SAGA',
+  FETCH_TOKEN_SAGA_FAILED: 'FETCH_TOKEN_SAGA_FAILED',
+};
